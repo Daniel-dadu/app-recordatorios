@@ -103,5 +103,4 @@ int main() {
     } else {
         std::cout << "Opción inválida\n";
     }
-    
 }
