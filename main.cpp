@@ -3,6 +3,7 @@
 #include <ctime>
 #include <fstream>
 
+//* Funcion importante
 std::vector<Recordatorio> leerRecordatorios() {
     std::string autor, fechaCreado, fechaFin, contenido;
 
